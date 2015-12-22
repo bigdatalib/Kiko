@@ -6,7 +6,7 @@
 name:               "Kiko"
 
 # URL
-baseurl:            ""
+baseurl:            "http://bigdatalib.github.io/Kiko/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
